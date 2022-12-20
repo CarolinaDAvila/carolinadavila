@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Carolina! <img src="https://raw.githubusercontent.com/carolinadavila/carolinadavila/main/images/carolina_memoji.jpg"></img> 👋
 
 <!--
 **CarolinaDAvila/carolinadavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://raw.githubusercontent.com/jessjchang/jessjchang/main/images/bubble-logo-solo-color.png" alt="Bubble Logo" width="30px"/>
 -->
