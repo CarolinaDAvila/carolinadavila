@@ -1,4 +1,4 @@
-### Hi there, I'm Carolina! <img src="https://raw.githubusercontent.com/carolinadavila/carolinadavila/main/images/carolina_memoji.jpg"></img> 👋
+### Hi there, I'm Carolina! <img src="https://raw.githubusercontent.com/carolinadavila/carolinadavila/main/images/carolina_memoji.jpg" width="30px"></img> 👋
 
 <!--
 **CarolinaDAvila/carolinadavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
